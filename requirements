@@ -1,0 +1,9 @@
+moviepy.editor
+pygame
+sys
+subprocess
+os
+math
+random
+time
+numpy
